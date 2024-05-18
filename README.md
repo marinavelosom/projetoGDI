@@ -1,6 +1,6 @@
 # OdontoCin
 
-<img src="https://account.cin.ufpe.br/img/logo-vertical.06880b0a.png" alt="Cin">
+<img src="https://account.cin.ufpe.br/img/logo-vertical.06880b0a.png" height="200px" alt="Cin">
 
 *Projeto para disciplina Gerenciamento de Dados e Informações 24.1*
 
