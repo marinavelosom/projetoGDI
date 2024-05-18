@@ -12,3 +12,5 @@
 - *Jhonatan Kennedy*
 - *Marina Melo*
 - *Michael Felipe*
+
+miro: https://miro.com/app/board/uXjVKGbldRs=/
